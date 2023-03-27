@@ -36,9 +36,37 @@ Over the past few months, I've been self-studying data science skills during my 
 
 *Conclusions:*
 
+**Project 2:**
+
+*Description:*
+
+*Data Source:*
+
+*Libraries:*
+
+*Sections Covered:*
+
+*Data Visualizations Preview:*
+
+*Conclusions:*
+
 <h2>💡Machine Learning Projects</h2>
 
 **Project 1:**
+
+*Description:*
+
+*Data Source:*
+
+*Libraries:*
+
+*Sections Covered:*
+
+*Data Visualizations Preview:*
+
+*Conclusions:*
+
+**Project 2:**
 
 *Description:*
 
@@ -60,7 +88,7 @@ Over the past few months, I've been self-studying data science skills during my 
 
 *Data Source:* [Netflix Dataset](https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/raw/main/netflix_titles.csv)
 
-*Dashboard Preview:* ![Netflix Dashboard](https://user-images.githubusercontent.com/88192027/227789462-c6fb6f37-a2df-4917-ba5d-6d0af1140be8.png "Netflix Tableau Dashboard")
+*Dashboard Preview:* ![Netflix Dashboard](https://user-images.githubusercontent.com/88192027/227789462-c6fb6f37-a2df-4917-ba5d-6d0af1140be8.png "Dashboard Preview")
 
 [Dashboard Link](https://public.tableau.com/views/NetflixDashboard_16794243269210/NetflixDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
@@ -70,12 +98,6 @@ Over the past few months, I've been self-studying data science skills during my 
 
 *Data Source:* [Covid-19 Vaccine Dataset](https://docs.google.com/spreadsheets/d/1oMrHuOkbXAoXibN6UzHUkNrwqvjQVFOU8CuqFMVZiUo/edit?usp=share_link)
 
-*Dashboard Preview:* ![Covid-19 Vaccine Tracker](https://user-images.githubusercontent.com/88192027/227790302-79d86980-c268-46c8-993a-d8eb1c9ac529.png "Covid-19 Vaccine Tracker")
+*Dashboard Preview:* ![Covid-19 Vaccine Tracker](https://user-images.githubusercontent.com/88192027/227790302-79d86980-c268-46c8-993a-d8eb1c9ac529.png "Dashboard Preview")
 
 [Dashboard Link](https://public.tableau.com/views/Covid-19VaccineTracker_16794478786730/covid-19vaccinetracker?:language=en-GB&:display_count=n&:origin=viz_share_link)
-
-
-
-
-
-
