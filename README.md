@@ -40,8 +40,8 @@ Over the past few months, I've been self-studying data science skills during my 
 - Data Acquisition
 - Data Pre-processing/Data Cleaning
 - Data Exploration & Visualization
-- Dashboarding 
 - Cloud Database
+- Dashboarding 
 
 *Data Visualization Preview:* 
 
