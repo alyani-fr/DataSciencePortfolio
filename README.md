@@ -22,7 +22,7 @@ Over the past few months, I've been self-studying data science skills during my 
 
 <h2>💡Projects Preview</h2>
 
-<h5 align="center">Keywords: MySQL | Python | Pandas | Matplotlib | Seaborn | NLP | API | Tableau | Amazon RDS</h5>
+<h5 align="center">Keywords: Sklearn | Python | Pandas | Matplotlib | Seaborn | NLP | API | Tableau | Amazon RDS</h5>
 
 👩‍💻 **Project 1: TED YouTube API Analysis**
 
@@ -41,7 +41,6 @@ Over the past few months, I've been self-studying data science skills during my 
 - Data Pre-processing/Data Cleaning
 - Data Exploration & Visualization
 - Cloud Database
-- Dashboarding 
 
 *Data Visualization Preview:* 
 
@@ -57,19 +56,32 @@ Over the past few months, I've been self-studying data science skills during my 
 - In this analysis, the number of videos uploaded each month is studied. First, the dataset need to be grouped and sorted by month. Thus, the data is group by each month and we can see the size of that data monthly. Since python don't know the order of the month, we need to manually sort the order. Then, the index is set categorically based on month. A barplot is used to visualize everything, and we can see that more videos were uploaded in Jan while less videos were uploaded in Aug.
 - The wordcloud is used to find the most common keyword from the videos title. Hence, will give us better understanding on which topics were uploaded most frequently.
 
-👩‍💻 **Project 2: Sentiment Analysis on Twitter**
+👩‍💻 **Project 2: Credit Card Fraud Detection Analysis**
 
 *Description:*
 
-*Data Source:*
+*Data Source:* [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-*Libraries:*
+*Libraries:* 
+- Pandas
+- Seaborn
+- Sklearn model selections (*GridSearchCV & cross_val_score*)
+- Sklearn ML libraries (*linear_model, svm, neighbors & tree*)
 
 *Sections Covered:*
+- Data Pre-processing/Data Cleaning
+- Data Exploration
+- Undersampling Skewed Dataset
+- ML Model Selection
+- Accuracy Score using AUPRC
 
 *Data Visualizations Preview:*
 
+![viz preview](https://github.com/alyani-fr/DataSciencePortfolio/assets/88192027/750a610d-7b64-4937-801a-4124d0c8a686)
+
+
 *Conclusions:*
+
 
 👩‍💻 **Project 3: Amazon Best-Seller Books Analysis**
 
