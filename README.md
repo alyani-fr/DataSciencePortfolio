@@ -1,6 +1,6 @@
 <h1 align="center">My Data Science Projects 🚀</h1>
 
-Over the past few months, I've been self-studying data science skills during my free time and this repo contains all of my personal projects as a way to hone and showcase those skills. The projects are ranging from EDA, Machine Learning Projects and Tableau Dashboarding Projects.
+Over the past few months, I've been self-studying data science skills during my free time and this repo contains all of my personal projects as a way to hone and showcase those skills. The projects are ranging from EDA, Machine Learning Projects and Tableau Dashboarding Projects. Here are my top 3 projects!
 
 <h2>🛠️ Technical Skills</h2>
 
