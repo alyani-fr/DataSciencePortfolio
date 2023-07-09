@@ -77,7 +77,8 @@ Over the past few months, I've been self-studying data science skills during my 
 
 *Data Visualizations Preview:*
 
- <img width="740" alt="Screenshot 2023-07-10 at 01 31 40" src="https://github.com/alyani-fr/DataSciencePortfolio/assets/88192027/47189f0f-d44b-4994-8e97-5a82f8e33e03">
+![viz preview](https://github.com/alyani-fr/DataSciencePortfolio/assets/88192027/063006bf-3baa-4c20-862e-c8ed4d39dc1d)
+
 
 
 
