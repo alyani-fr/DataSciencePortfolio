@@ -1,1 +1,1 @@
-<h2 align="center">Lazada Web Scrapping with Email Alert Project</h2>
+<h2 align="center">Lazada Web Scraping with Email Alert Project</h2>
