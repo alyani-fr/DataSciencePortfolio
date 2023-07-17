@@ -24,7 +24,7 @@ Over the past few months, I've been self-studying data science skills during my 
 
 <h5 align="center">Keywords: Sklearn | Python | Pandas | Matplotlib | Seaborn | NLP | API | Tableau | Data Extraction</h5>
 
-👩‍💻 **Project 1: Amazon Best-Seller Books Analysis**
+👩‍💻 **Project 1: Lazada Web Scraping Project**
 
 *Description:* The objective of this project is to do some hands-on practices for web scrapping and the usage of Selenium/BeautifulSoup library to parse dynamic contents on a website. Created an “on-sale” email alert of an item on Lazada website through web scrapping. Extracted the desired content from the HTML tags and creating a csv file using Python’s csv library. Used the Python’s time library to create a timer for the data pull and appending them into the csv file. Implemented the smtplib module in Python to create the function for an email alert.
 
