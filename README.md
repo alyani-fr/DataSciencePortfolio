@@ -48,7 +48,6 @@ Over the past few months, I've been self-studying data science skills during my 
 
 ![viz preview](https://github.com/alyani-fr/DataSciencePortfolio/assets/88192027/2b2d2fdb-29a3-4a6b-a48f-10bf3c975b45)
 
-*Conclusions:*
 
 👩‍💻 **Project 2: Credit Card Fraud Detection Analysis**
 
