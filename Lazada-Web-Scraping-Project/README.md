@@ -1,4 +1,4 @@
-<centered><h1>Project: Lazada Web Scraping</h1></centered>
+<h1 align='center'>Project: Lazada Web Scraping</h1>
 
 ![viz preview](https://github.com/alyanifr/DataSciencePortfolio/blob/main/Lazada-Web-Scraping-Project/figures/img08.jpg)
 
