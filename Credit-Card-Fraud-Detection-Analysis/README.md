@@ -1,5 +1,6 @@
 <h1 align="center">Project: Credit Card Fraud Detection Analysis</h1>
 
+![viz preview](https://github.com/alyanifr/DataSciencePortfolio/blob/main/Credit-Card-Fraud-Detection-Analysis/figures/img07.jpg)
 
 **Description:** The objective of this project is to learn how to deal with an unbalanced dataset of credit card fraud transactions and build a classifier model that can identify the fraudulent. One of the greatest challenges while working on this project is deciding how to calculate the model's accuracy.
 
